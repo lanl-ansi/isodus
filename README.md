@@ -1,10 +1,18 @@
-# ISODUS and PL - Code for reproducibility
-Algorithms for learning continuous graphical models with unbounded support.
+# ISODUS and PL for unbounded support continuous graphical models
+Interaction Screening and Pseudolikelihood based algorithms for learning general continuous Markov random fields with unbounded support beyond Gaussian distributions.
 
 
-## References
-
-[1] Ren, C., Misra, S., Vuffray, M., Lokhov, A., ...
+## Reference
+If you find this package useful in your work, we kindly request that you cite the following publication:
+```
+@misc{2102.09198,
+    author = {Christopher X. Ren and Sidhant Misra and Marc Vuffray and Andrey Y. Lokhov},
+    title = {Learning Continuous Exponential Families Beyond Gaussian},
+    year = {2021},
+    eprint = {arXiv:2102.09198},
+    url = {https://arxiv.org/abs/2102.09198}
+}
+```
 
 ## License
 
